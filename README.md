@@ -122,7 +122,7 @@ $ python client.py
 **运行服务器，启动 web 服务**
 ```bash
 $ python server.py
-[2018-05-16 23:36:22 +0800] [108] [INFO] Goin' Fast @ http://localhost:3289
+[2018-05-16 23:36:22 +0800] [108] [INFO] Goin Fast @ http://localhost:3289
 [2018-05-16 23:36:22 +0800] [108] [INFO] Starting worker [108]
 ```
 
